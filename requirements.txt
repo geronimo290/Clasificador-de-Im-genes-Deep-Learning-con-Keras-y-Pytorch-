@@ -1,0 +1,18 @@
+# Frameworks de Deep Learning y soporte de GPU (AMD/Windows)
+tensorflow-directml
+torch-directml
+
+# Herramientas de optimización
+keras-tuner
+optuna
+
+# Análisis de datos y métricas
+scikit-learn
+pandas
+
+# Visualización
+matplotlib
+seaborn
+
+# Entorno de trabajo
+notebook
